@@ -1,0 +1,14 @@
+.function-card{
+    width: 25%;
+    height: 50%;
+    background-color: #24436e;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.btn-div button{
+    margin: 20px;
+    background-color: blue;
+    padding: 12px;
+    border-radius: 12px;
+}
