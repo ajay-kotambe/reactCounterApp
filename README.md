@@ -14,34 +14,30 @@ Styled using clean CSS (no frameworks used)
 📸 Preview <br><br>
 
 🚀 How to Run
+<br><br>
 Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/counter-app.git
+<br>
+git clone https://github.com/your-username/counter-app.git <br>
 Open index.html in your browser.
-
+<br>
 🧠 Technologies Used
 HTML5
-
+<br>
 CSS3
-
+<br>
 JavaScript (ES6)
-
-📂 Folder Structure
-pgsql
-Copy
-Edit
+<br>
+<br>
+📂 Folder Structure <br>
+<br>  
 counter-app/
 │
 ├── index.html
 ├── style.css
 └── script.js
-🛠️ Future Improvements
-Add sound or animation on button click
 
-Add min/max limits
-
-Add themes (light/dark)
-
+<br><br>
+🛠️ Future Improvements <br><br>
+Add sound or animation on button click<br>
+Add min/max limits<br>
+Add themes (light/dark) <br>
