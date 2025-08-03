@@ -31,10 +31,10 @@ JavaScript (ES6)
 📂 Folder Structure <br>
 <br>  
 counter-app/
-│
-├── index.html
-├── style.css
-└── script.js
+│ <br>
+├── index.html <br>
+├── style.css <br>
+└── script.js <br>
 
 <br><br>
 🛠️ Future Improvements <br><br>
