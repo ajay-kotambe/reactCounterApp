@@ -19,7 +19,7 @@ Clone this repository:
 <br>
 git clone https://github.com/your-username/counter-app.git <br>
 Open index.html in your browser.
-<br>
+<br> <br><br><br>
 🧠 Technologies Used
 HTML5
 <br>
