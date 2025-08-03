@@ -3,13 +3,12 @@
   align-items: center;
   justify-content: center;
   background-color: white;
-  border-radius: 10px;
+  border-radius: 2px;
   padding: 10px 20px;
   gap: 40px;
   box-shadow: 0 2px 5px rgba(160, 128, 128, 0.1);
-  border: 2px solid red; /* optional: for debug */
 }
-.counter-div button {
+.btn-white {
   border: none;
   background: none;
   font-size: 1.5rem;
@@ -19,4 +18,11 @@
 .counter-div span {
   font-size: 1.5rem;
   font-weight: bold;
+}
+
+.btn-reset {
+  margin: 30px;
+  background-color: #388e8e;
+  padding: 8px 16px;
+color: white;
 }

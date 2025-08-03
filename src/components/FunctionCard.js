@@ -10,9 +10,6 @@ const FunctionCard = () => {
         <div className="function-card">
           <FunctionTitle />
           <CounterDiv />
-          <div className="btn-div">
-            <button type="reset" >Reset</button>
-          </div>
         </div>
       </Card>
     </div>
