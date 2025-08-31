@@ -1,6 +1,5 @@
 import "./FunctionCard.css";
 import Card from "./Card";
-import FunctionTitle from "./FunctionTitle";
 import CounterDiv from "./CounterDiv";
 
 const FunctionCard = () => {
@@ -8,7 +7,9 @@ const FunctionCard = () => {
     <div>
       <Card className="function-card_card">
         <div className="function-card">
-          <FunctionTitle />
+          <div className="function-title">
+            <h2>Increment & Decrement</h2>
+          </div>
           <CounterDiv />
         </div>
       </Card>
